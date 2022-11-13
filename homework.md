@@ -58,3 +58,4 @@
 * git config --global user.name "< name >" - установить имя пользователя
 * git config --global user.email "< email >" - установить почту пользователя
 * git checkout - переход между версиями изменений файла
+* git status - вывести статус изменений
