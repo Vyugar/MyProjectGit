@@ -72,3 +72,5 @@ __Полужирный__
 * git branch - вывести список веток
 * git branch <name_branch> - создать ветку
 * git checkout <name_branch> - переход между версиями изменений файла (ветками)
+* git merge <name_branch> - слияние изменений из другой ветви
+git branch -d <name_branch> - удаление ветви
