@@ -50,7 +50,7 @@ __Полужирный__
 
 ![логотип](https://miro.medium.com/max/1400/1*bvMUGHtl8oJP5rZPV7X8eg.png)
 
-![логотип](Markdown.png)
+![логотип](Markdown2.png)
 
 ## Ссылки
 
