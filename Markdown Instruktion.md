@@ -58,7 +58,7 @@ __Полужирный__
 
 [Ссылка](https://learnxinyminutes.com/docs/ru-ru/markdown-ru/#links)
 
-## Основные команды
+## Команды
 
 * git config --global user.name "< name >" - установить имя пользователя
 * git config --global user.email "< email >" - установить почту пользователя
